@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ezersziget Horgásztó</string>
+    <string name="title_activity_maps">Navigáció a tóhoz</string>
+    <string name="title_activity_navigacio">Navigáció a Tóhoz</string>
+    <string name="title_activity_idopont_foglalas">Időpont Foglalás</string>
+    <string name="title_activity_idopont_foglalas_nap">Idopont Foglalas</string>
+</resources>

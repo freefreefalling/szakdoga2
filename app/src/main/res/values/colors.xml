@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#95705b</color>
+    <color name="colorPrimaryDark">#563b2c</color>
+    <color name="colorAccent">#f4f3ed</color>
+    <color name="transparent">@android:color/transparent</color>
+    <color name="colorFogyoban">#09F</color>
+    <color name="colorVanMar">#0F6</color>
+</resources>

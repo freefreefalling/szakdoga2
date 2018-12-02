@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "57665403103",
+    "firebase_url": "https://ezerszigetto-c5c75.firebaseio.com",
+    "project_id": "ezerszigetto-c5c75",
+    "storage_bucket": "ezerszigetto-c5c75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57665403103:android:1e4895b31ccc7f25",
+        "android_client_info": {
+          "package_name": "hu.oe.szakdolgozat.n46god.ezerszigethorgszt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57665403103-s6c9eei36lukaroalemlf660o56hel67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hu.oe.szakdolgozat.n46god.ezerszigethorgszt",
+            "certificate_hash": "670131edb3a2ab06b8126593455c5ea58bb518ef"
+          }
+        },
+        {
+          "client_id": "57665403103-m4u980g8rh49edq2a07kjo5a25rf2ilv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4nUkwf428Ihg0_pdlTNOl74E_25fCW3s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57665403103-m4u980g8rh49edq2a07kjo5a25rf2ilv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
