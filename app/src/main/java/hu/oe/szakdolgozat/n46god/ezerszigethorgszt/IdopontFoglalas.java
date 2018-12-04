@@ -136,6 +136,7 @@ public class IdopontFoglalas extends AppCompatActivity {
         http.interfaceHozzaAd(new IKeszVan() {
             @Override
             public void keszVan(String string) {
+                Log.i("asd ", string);
                 try {
 
                     JSONObject jObject = new JSONObject(string);
@@ -156,7 +157,7 @@ public class IdopontFoglalas extends AppCompatActivity {
                         @Override
                         public boolean shouldDecorate(CalendarDay day) {
                             try {
-                                return napok.getString(day.getDay()+"") == "3" && day.getMonth()+1 == honap;
+                                return napok.getString(day.getDay()+"") == "3" ;
                             } catch (JSONException e) {
                                 e.printStackTrace();
                                 return false;
